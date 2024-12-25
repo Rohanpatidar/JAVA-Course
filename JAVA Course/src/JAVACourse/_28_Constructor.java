@@ -73,4 +73,4 @@ public class _28_Constructor {
     }
 }
 
-//Every time we create a object constructor called
+//Every time we create object constructor called
