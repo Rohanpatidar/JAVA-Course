@@ -26,7 +26,7 @@ class MobileSecond {
     public static void show1() {
         //Static method only allow static variables
         //not allow directly
-        // System.out.println("Brand " + brand + " Price " + price + " Name " + name);
+//        System.out.println("Brand " + brand + " Price " + price + " Name " + name);
         // allowing indirectly by passing object
     }
 

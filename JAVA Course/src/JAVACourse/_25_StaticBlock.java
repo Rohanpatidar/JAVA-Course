@@ -56,14 +56,17 @@ public class _25_StaticBlock {
 //if we don't create object class
 // not load so how we load class without making object
 
-        Class.forName("MobileThird");
+//        Class.forName("MobileThird");
 
-//        MobileThird obj1 = new MobileThird();
+        MobileThird obj1 = new MobileThird();
 //        obj1.brand = "Oppo";
 //        obj1.name = "SmartPhone";
+//        MobileThird.name = "patidar";
 //        obj1.price = 1500;
-//
-//        MobileThird obj2 = new MobileThird();
+        obj1.show();
+
+
+        MobileThird obj2 = new MobileThird();
 
 
     }
@@ -76,4 +79,4 @@ public class _25_StaticBlock {
 due to load class first static block call first and
 also due to class load only once the static block
 execute first
-* */
+*/
