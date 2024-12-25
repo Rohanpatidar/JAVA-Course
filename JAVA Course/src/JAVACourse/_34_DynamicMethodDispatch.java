@@ -38,7 +38,7 @@ class Example2 extends Example1 {
  * The _34_DynamicMethodDispatch class demonstrates the concept of dynamic method dispatch in Java.
  * Dynamic method dispatch, also known as runtime polymorphism, is a mechanism by which a call to an
  * overridden method is resolved at runtime rather than compile time. It allows a parent class reference
- * to refer to a child class object and invokes the overridden method in the child class.
+ * to refer to a child class object and invokes the overidden method in the child class.
  * <p>
  * This class contains an example implementation where a child class object is assigned to a parent class
  * reference, and the overridden method in the child class is called dynamically at runtime.
