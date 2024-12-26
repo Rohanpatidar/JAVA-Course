@@ -2,7 +2,7 @@
 package JAVACourse;
 
 /**
- * The A class is a demonstration class to highlight that Java does not support
+ * The 'A' class is a demonstration class to highlight that Java does not support
  * multiple inheritance through classes. While Java allows a class to inherit
  * from a single parent class, it does not permit a class to inherit from more
  */
